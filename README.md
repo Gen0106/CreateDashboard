@@ -36,3 +36,6 @@ Finally, note that payments submitted via this endpoint will not show up in the 
 ## Logistics
 
 You should return to your recruiter a tarball containing your web dashboard that satisfies the above requirements, along with a README that describes how to get it running and any design choices you made that you think are particularly interesting.  We recognize that when job searching your time is valuable and so we think this exercise should take you about 5-7 hours; please do not feel that you need to spend much more time than that on it.  Please reach out to your recruiter if you have any questions about the exercise.  Thanks!
+
+## Frontend
+There is frontend directory that contains a `README.md`. You can run the server and the frontend with the instructions of `README.md`
